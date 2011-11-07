@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} \/([0-9a-z]+)$ [NC]
+RewriteRule ^(.*) short.php?k=%1 [L]

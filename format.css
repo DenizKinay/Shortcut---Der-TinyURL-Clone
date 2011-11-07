@@ -1,0 +1,221 @@
+
+body
+{margin-top: 0px; margin-left: 0px; margin-right: 0px;margin-bottom: 0px; background-color: #0f1113; padding:0px;
+}
+/* breite der konstrukt.*/
+
+#main {border:solid 0px #000;width:82%;background-color:#;}
+
+a {cursor:url(images/curhand02.gif), pointer !important;cursor:url(images/curhand02.ani), pointer}
+
+div.shadow, div.shadow2, div.shadow3, div.shadow4, div.shadow5 {
+   padding: 1px;
+   border-radius: 10px;
+   -moz-border-radius: 10px;
+   }
+div.shadow {
+   background-color: #8e8e8e;
+   border: 1px solid #959595;
+   margin: 0px;
+   }
+div.shadow2 {
+   background-color: #aaa;
+   border: 1px solid #bebebe;
+   margin: 0;
+   }
+div.shadow3 {
+   background-color: #d1d1d1;
+   border: 1px solid #e1e1e1;
+   margin: 0;
+   }
+div.shadow4 {
+   background-color: #ededed;
+   border: 1px solid #f6f6f6;
+   margin: 0;
+   }
+div.shadow5 {
+   float: left;
+   background-color: #fcfcfc;
+   border: 1px solid #fff;
+   margin: 0.7em 1em;
+
+   }
+
+div.shadow img {
+   border: 0px solid #666;
+   margin: 0;
+   display:block;
+   position: relative;
+   top: -3px;
+   left: -3px;
+   border:solid 4px #fff;
+   }
+#mover a:hover {
+   background-color:#000;
+background-image:url(images/bt.gif);background-repeat:no-repeat;
+background-position: center top;
+
+
+   }
+
+
+
+
+
+
+/* === hintergrundfarben und überschriften der einz. seiten === */
+#sp1a { padding-left: 0px;padding-right:0px;padding-top: 0px;
+background-color:#798779;}
+#sp1b { padding-left: 0px;padding-right:0px;padding-top: 0px;
+background-color:#4a3636;}
+#sp1c { padding-left: 0px;padding-right:0px;padding-top: 0px;
+background-color:#334a36;}
+#sp1d { padding-left: 0px;padding-right:0px;padding-top: 0px;
+background-color:#46668a;}
+#sp1e { padding-left: 0px;padding-right:0px;padding-top: 0px;
+background-color:#ffcc66;}
+#sp1f { padding-left: 0px;padding-right:0px;padding-top: 0px;
+background-color:#800000;}
+
+
+
+
+h2{
+letter-spacing:6px;font-variant:small-caps;
+    text-transform:capitalize;
+font-family: "Trebuchet MS",arial, helvetica, verdana, tahoma, sans-serif;
+font-size: 18px;text-align:left;vertical-align:baseline;}
+
+
+#headlinea {
+color:#798779;
+
+}
+
+#headlineb{
+color:#4a3636;
+}
+
+#headlinec{
+color:#364a36;
+}
+
+#headlined{
+color:#46668a;
+}
+
+#headlinee{
+color:#ffcc66;
+}
+
+#headlinef{
+color:#800000;
+}
+/*=== ende hintergrundfarben und überschriften der einz. seiten === */
+
+
+
+
+/*=== homepagename auf der startseite === */
+#logoklein1{background-color:#5C635C;padding:2px;color:#fff;font-size: 18px;
+border-left:dashed 1px #000;
+border-right:dashed 1px #000;
+border-top:dashed 1px #000;
+border-bottom:dashed 1px #000;font-style:italic;font-variant:small-caps;
+text-transform:capitalize;letter-spacing:2px
+}
+
+#logoklein3 {background-color:#fff;padding:2px;color:#515951;font-size: 18px;
+border-left:dashed 1px #000;
+border-right:dashed 0px #000;
+border-top:dashed 1px #000;
+border-bottom:dashed 1px #000;
+}
+/*=== ende === */
+
+
+#sp2 {
+padding-top: 30px; padding-bottom: 30px;
+padding-left: 30px;padding-right:30px;
+background-color:#fff;width:100%;
+border-left:solid 0px #343434;
+font-size: 13px;line-height: 18px;font-family: verdana,arial, helvetica, tahoma ,verdana,  sans-serif;
+text-align:justify;color:#000;
+background-image:url(images/ecke.jpg);background-repeat:no-repeat;
+background-position: right bottom;
+}
+
+.backani {margin:0;padding:0;background-image:url(images/backani01.gif);background-repeat:no-repeat;
+background-position: 50% 50%;}
+
+.textklein{
+font-size: 9px;line-height: 15px;font-family: verdana,arial, helvetica, tahoma ,verdana,  sans-serif;
+text-align:justify;color:#000;
+margin:0px;font-style:italic;
+}
+
+
+
+#top{font: normal 11px verdana, sans-serif; color: #7f7f7f; padding:6px;
+height:24px;
+text-align:right;
+background-color:#0f1113;
+}
+
+.fussb {font: normal 11px verdana, sans-serif; color: #7f7f7f; padding:6px;
+height:24px;
+text-align:center;
+background-color:#0f1113;
+}
+
+#menu2 a, #menu2 a:visited , #menu2 a:active {display: block;
+color:#BFBFBF;
+text-decoration:none ;
+font-size: 13px;
+font-family: arial, helvetica, tahoma ,verdana, sans-serif;
+padding-left: 8px; padding-right: 8px;padding-bottom: 0px; padding-top:0px;
+border-left:solid 0px #000;border-right:solid 0px #000;
+line-height:22px;
+height:22px;
+text-align:center;
+background-color:#0f1113;
+border-bottom:dashed 1px #0F1113;
+font-variant:small-caps;
+    text-transform:capitalize;}
+
+#menu2 a:hover {color:#fff;
+background:transparent;
+text-decoration:none ;
+border-bottom:dashed 1px #fff;
+background-image:url(images/bt3.gif);background-repeat:no-repeat;
+background-position: center bottom;
+
+}
+
+
+.trenn {color:#7a867a}
+
+
+
+/* scrolleiste internet explorer ab vers.5.5 */
+
+html, body
+{scrollbar-arrow-color: #fff; scrollbar-base-color: #2d2d2d;
+scrollbar-highlight-color : #000000; scrollbar-shadow-color : #2d2d2d;
+SCROLLBAR-TRACK-COLOR: #3F3F3F;}
+
+
+
+
+
+/* allgemeine links im text */
+
+a:link, a:visited, a:active{ font-size: 13px;line-height: 18px;font-family: verdana,arial, helvetica, tahoma ,verdana,  sans-serif; text-decoration:underline;color:#000;background:transparent;
+padding-bottom:3px}
+
+a:hover{ background-color:#DFDFDF;
+color:#000;
+background-image:url(images/bt.gif);background-repeat:no-repeat;
+background-position: left bottom;
+text-decoration:underline
+ }
